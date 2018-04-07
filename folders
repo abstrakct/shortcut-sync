@@ -1,8 +1,24 @@
 # You can add comments to these files with #
-d	~/Documents
-D	~/Downloads
-m	~/Music
-pp	~/Pictures
-vv	~/Videos
-s	~/.scripts
-cf	~/.config
+#
+#
+# DON'T USE: d e (g) l w x
+
+a   /TheVault/musikk/masters
+an  /TheVault/teve/anime
+b   /media/backupandarchive
+c   /TheVault/incoming/usenet/complete
+f   /TheVault/film
+h   /home/rolf
+lok /TheVault/musikk/live.ok
+m   /media
+M   /mnt
+mi  /TheVault/lyd/podcasts/Misjonen
+mu  /TheVault/musikk
+n   ~/screenshots
+o   ~/documents
+p   ~/documents/pictures
+s   /TheVault/incoming/0seed
+sk  ~/documents/skriving
+t   /TheVault/teve/teve
+u   /TheVault/spill/emulation
+v   /TheVault
