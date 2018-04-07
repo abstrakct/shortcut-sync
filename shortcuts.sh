@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 # Config locations
 folders="$HOME/bin/shortcuts/folders"
