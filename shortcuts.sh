@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Config locations
-folders="$HOME/.scripts/folders"
-configs="$HOME/.scripts/configs"
+folders="$HOME/bin/shortcuts/folders"
+configs="$HOME/bin/shortcuts/configs"
 
 # Output locations
 zsh_shortcuts="$HOME/.zsh/shortcuts.zsh"
